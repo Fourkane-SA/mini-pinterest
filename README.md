@@ -33,3 +33,4 @@ Repartition des taches :
 DIMITRI TRACOL : L'affichage du profil de l'utilisateur, la connexion/déconnexion et l'ajout/suppression/modification d'image du compte
 
 FOURKANE SAID ALI : L'affichage des images, et les fonctions de gestion du compte (profil utilisateur et administrateur)# mini-pinterest
+# mini-pinterest
